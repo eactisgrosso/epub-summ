@@ -1,0 +1,6 @@
+Write structured medium summary of the following book chapter. 
+- If there are any anecdotes or stories, include them as part of the summary to make it more memorable. 
+- Provide the Key Takeaways at the end.
+
+Chapter:
+{context}
