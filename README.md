@@ -1,6 +1,6 @@
 # EPUB Summarizer
 
-This repository provides tools to convert EPUB files into Markdown format and then summarize them using OpenAI's models. The project consists of two main scripts: `convert.py` and `summarize.py`.
+This repository provides tools to convert EPUB files into Markdown format and then summarize them using LLMs.
 
 ## Features
 
